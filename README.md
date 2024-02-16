@@ -1,4 +1,4 @@
-# Web Automation - E-Commerce APllicayion Using Selenium WebDriver and Java
+# Web Automation - E-Commerce application using Selenium WebDriver and Java
 
 # Problem Statement:
 
